@@ -1,3 +1,4 @@
+/* styles.css */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -7,8 +8,10 @@ body {
 
 h1 {
     color: #333;
+    font-size: 24px; /* Modified font-size */
 }
 
 p {
     color: #666;
+    font-size: 16px; /* Modified font-size */
 }

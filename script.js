@@ -1,1 +1,2 @@
-console.log("Hello, World! This is script.js file.");
+// script.js
+console.log("Hello, World! This is a modified script.js file.");
